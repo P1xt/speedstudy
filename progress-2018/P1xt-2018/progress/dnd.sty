@@ -1,0 +1,173 @@
+% DND 5e LaTeX Style File
+% Created by Evan Bergeron
+% Modified by Christopher Liu December 2015
+% Modified by Yannic Meyer Feb 2016
+
+\ProvidesPackage{dnd}[2016/03/13]
+
+%
+% Prerequisite Packages
+%
+
+\RequirePackage{titlesec}         % Used to adjust (sub)section colors and fonts
+\RequirePackage{lipsum}           % Filler text
+\RequirePackage[cm]{fullpage}     % Small margins
+\RequirePackage{bookman}          % Closest built-in font I could find
+\RequirePackage[T1]{fontenc}
+\RequirePackage[table]{xcolor}
+\RequirePackage{array}
+\RequirePackage{tabularx}
+\RequirePackage{tikz}
+\RequirePackage{keycommand}
+\RequirePackage{fancyhdr} 			  % Adaptation of the footers
+\RequirePackage[most]{tcolorbox}  % used for some boxes
+
+% Load other modules of this package
+\usepackage{lib/dndmonster}
+\usepackage{lib/dndsections}
+\usepackage{lib/dndcomment}
+\usepackage{lib/dnditemtable}
+\usepackage{lib/dndtable}
+\usepackage{lib/dndquote}
+\usepackage{lib/dndpaperbox}
+
+
+%
+% Options
+%
+
+% 'bg-letter-img','bg-letter-print' and 'bg-none' options
+\newtoggle{bool-bg-a4}
+\newtoggle{bool-bg-print}
+\newtoggle{bool-bg-none}
+\DeclareOption{bg-none}{\toggletrue{bool-bg-none}}
+\DeclareOption{bg-a4}{\toggletrue{bool-bg-a4}}
+\DeclareOption{bg-letter}{\togglefalse{bool-bg-a4}}
+\DeclareOption{bg-print}{\toggletrue{bool-bg-print}}
+\DeclareOption{bg-full}{\togglefalse{bool-bg-print}}
+
+% Default Settings
+\ExecuteOptions{bg-letter, bg-full}
+\ProcessOptions\relax
+
+\nottoggle{bool-bg-none}{
+  % Determine background image
+  \iftoggle{bool-bg-a4}{%		% Check if A4 option is selected
+    \iftoggle{bool-bg-print}{%	% Check if print option is selected
+      \RequirePackage[a4,print]{lib/dndbackgroundimg}
+		}{%
+      \RequirePackage[a4,full]{lib/dndbackgroundimg}
+		}
+	}{%
+    \iftoggle{bool-bg-print}{%	% Check if print option is selected
+      \RequirePackage[letter,print]{lib/dndbackgroundimg}
+		}{%
+      \RequirePackage[letter,full]{lib/dndbackgroundimg}
+		}
+	}
+}
+
+%
+% Style Parameters
+%
+
+% Font environment
+\newenvironment{lmss}{\fontfamily{lmss}\selectfont}{}
+
+% Columns setup
+\setlength{\columnsep}{1cm}
+
+% Define colors, sampled from the books.
+\usepackage{color}
+\definecolor{bgtan}{HTML}{F7F2E5}		% e.g. used for background and quotebox
+\definecolor{titlered}{HTML}{58180D}	% e.g. used for titles
+\definecolor{undergold}{HTML}{C9AD6A}	% e.g. used for titlerules
+\definecolor{uppergold}{HTML}{B89A67}	%e.g. used for pagenumbers and footer
+\definecolor{puregold}{HTML}{E69A28}	%e.g. used for top line in newer monsterbox
+\definecolor{monstertan}{HTML}{FDF1DC}	%e.g. used for newer monsterblock
+\definecolor{monstertandark}{HTML}{F0DBB5}	%e.g. used for older monsterbox
+\definecolor{commentgreen}{HTML}{E0E5C1} % e.g. used in table and green commentbox
+\definecolor{itemtablepink}{HTML}{E9CDC2} % e.g. used in item tables instead of the green
+\definecolor{rulered}{HTML}{9C2B1B}		%e.g. used for triangular rule in statsblock
+
+% Setup for custom footer
+\pagestyle{fancy}
+
+\footskip = 48pt %push the footer down so it fits with the decal from the bg-img
+\fancyhfoffset[LE]{28pt} % push the footer left on even pages so it fits the decal
+\fancyhfoffset[RO]{30pt} % push the footer right on odd pages so it fits the decalbg-img
+\renewcommand{\headrulewidth}{0.0pt} %no rule for header
+\renewcommand{\footrulewidth}{0.0pt} %no rule for footer
+
+\fancyhead{} % clear all header fields
+\fancyfoot{} % clear all footer fields
+
+\fancyfoot[LE]{
+	\textcolor{uppergold}{\thepage}
+	\hspace*{0.9cm}
+	\raisebox{12pt}{\textsc{\textcolor{uppergold}{\nouppercase\leftmark}}}
+	}
+
+\fancyfoot[RO]{
+	\raisebox{12pt}{\textsc{\textcolor{uppergold}{\nouppercase\leftmark}}}
+	\hspace*{1cm}
+	\textcolor{uppergold}{\thepage}
+	}
+
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}} % Don not write word "chapter"
+
+\fancypagestyle{plain}{}
+
+% Fancy DnD 5e-style hline
+\renewcommand{\hline}{
+\noindent
+  \begin{tikzpicture}[]
+    \draw [rulered, fill=rulered] (0, 0) --(0,0.1) -- (\textwidth, 0.08);
+  \end{tikzpicture}
+}
+
+
+% Either hilariously, or infuriatingly, the \ifcommandkey
+% implementation is buggy. Here is a re-implementation
+% from tex.stackexchange.
+\begingroup
+  \makeatletter
+  \catcode`\/=8 %
+  \@firstofone
+    {
+      \endgroup
+      \renewcommand{\ifcommandkey}[1]{%
+        \csname @\expandafter \expandafter \expandafter
+        \expandafter \expandafter \expandafter  \expandafter
+        \kcmd@nbk \commandkey {#1}//{first}{second}//oftwo\endcsname
+      }
+   }
+
+\usepackage{listings}
+\usepackage{color}
+ 
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+ 
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},   
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\footnotesize,
+    breakatwhitespace=false,         
+    breaklines=true,                 
+    captionpos=b,                    
+    keepspaces=true,                 
+    numbers=left,                    
+    numbersep=5pt,                  
+    showspaces=false,                
+    showstringspaces=false,
+    showtabs=false,                  
+    tabsize=2
+}
+ 
+\lstset{style=mystyle}

@@ -1,0 +1,24 @@
+% Changing book to article will make the footers match on each page,
+% rather than alternate every other.
+%
+% Note that the article class does not have chapters.
+\documentclass[10pt,twoside,twocolumn,openany]{book}
+\usepackage{parskip}
+\usepackage[bg-letter]{dnd} % Options: bg-a4, bg-letter, bg-full, bg-print, bg-none.
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+
+
+\begin{document}
+
+\include{title}
+\fontfamily{ppl}\selectfont % Set text font
+
+\tableofcontents
+\newpage
+
+% Include all chapters from the various courses/books/etc
+\include{courses/18.01/index}
+
+
+\end{document}
