@@ -1,9 +1,9 @@
 # SpeedStudy Plan
 
 ## Progress
-If you would like to join me, feel free to add your own progress folder in the progress-2018 directory of this repo (you can just copy the template), then add a link to it here. Or, you can fork the whole repo and work in your own copy, either way, this is my plan for 2018, but you're free to use it any way you want.
+If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./progress-2018) to make your own copy and add a link to it here.
 
-* [P1xt](progress-2018/P1xt-2018/P1xt-progress-2018.md)
+* [P1xt](https://github.com/P1xt/p1xt-progress)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
