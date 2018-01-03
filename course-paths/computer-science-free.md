@@ -18,6 +18,8 @@
 
 - [ ] [Software Construction: Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x)
 
+- [ ] [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)
+
 - [ ] [Programming for the Web with JavaScript](https://www.edx.org/course/programming-web-javascript-pennx-sd4x)
 
 - [ ] [MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
