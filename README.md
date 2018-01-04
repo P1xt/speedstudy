@@ -31,7 +31,7 @@ My goal is to see how many points I can rack up by December 31, 2018.
 | Substantial Project                         | 200                   | project       |
 | Large Project                               | 300                   | project       |
 | Gigantic Project                            | 400                   | project       |
-| Duolingo (1 level)                          | 100                   | foundation    |
+| Duolingo or MosaLingua (1 level)            | 100                   | foundation    |
 | Book                                        | 200                   | foundation    |
 | Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
