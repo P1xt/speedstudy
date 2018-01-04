@@ -4,6 +4,7 @@
 If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./progress-2018) to make your own copy and add a link to it here.
 
 * [P1xt](https://github.com/P1xt/p1xt-progress)
+* [fiftyfivebells](https://github.com/fiftyfivebells/2018-study-plan)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
