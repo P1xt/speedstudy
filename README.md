@@ -46,6 +46,7 @@ My goal is to see how many points I can rack up by December 31, 2018.
 | Open Source PR                              | 50                    | communication |
 | Module to npm                               | 200                   | communication |
 | Team Up for a project                       | 100                   | communication |
+| Diary entry                                 | 5                     | communication |
 | CodeWars (10 problems)                      | 50                    | algorithms    |
 | CodinGame (1 Tier)                          | 100                   | algorithms    |
 | CodinGame (1 Bot Competition)               | 20                    | algorithms    |
