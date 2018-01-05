@@ -8,6 +8,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [SharpEleven](https://github.com/SharpEleven91/StudyGuide2018)
 * [elloo](https://github.com/elloo/p1xt-js-2.0-guided-studies)
 * [mayurpande](https://github.com/mayurpande/speedstudy)
+* [mtanzillo](https://github.com/mtanzillo/speedstudy2018)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
