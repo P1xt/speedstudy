@@ -6,6 +6,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [P1xt](https://github.com/P1xt/p1xt-progress)
 * [fiftyfivebells](https://github.com/fiftyfivebells/2018-study-plan)
 * [SharpEleven](https://github.com/SharpEleven91/StudyGuide2018)
+* [elloo](https://github.com/elloo/p1xt-js-2.0-guided-studies)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
