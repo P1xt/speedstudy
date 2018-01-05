@@ -2,11 +2,11 @@
 
 ## 2018
 
-<something about your goals here>
+something about your goals here
 
 ## Progress
 
-Current Course: 
+Current Course:     
 Courses Completed: 0  
 Total Points earned: 
 
