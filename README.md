@@ -37,6 +37,8 @@ My goal is to see how many points I can rack up by December 31, 2018.
 | Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
 | Physical Activity (30 minutes)                          | 10                    | foundation    |
+| Musical Instrument Practice (30 minutes)                          | 10                    | foundation    |
+| Khan Academy (30 minutes)                          | 10                    | foundation    |
 | Analytics Vidhya Competition                | 50                    | data-science  |
 | Crowd Analytix Competition                  | 50                    | data-science  |
 | Kaggle Competition                          | 50                    | data-science  |
