@@ -10,6 +10,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [mayurpande](https://github.com/mayurpande/speedstudy)
 * [mtanzillo](https://github.com/mtanzillo/speedstudy2018)
 * [akhilome](https://github.com/akhilome/ss2018)
+* [bernar83](https://github.com/bernar83/2018-study-plan)
 * [LuisJaquez](https://github.com/LuisJaquez/Speed-Study-2018)
 * [Your Progress Here](./progress-2018)
 
