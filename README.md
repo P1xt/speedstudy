@@ -9,6 +9,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [elloo](https://github.com/elloo/p1xt-js-2.0-guided-studies)
 * [mayurpande](https://github.com/mayurpande/speedstudy)
 * [mtanzillo](https://github.com/mtanzillo/speedstudy2018)
+* [akhilome](https://github.com/akhilome/ss2018)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
