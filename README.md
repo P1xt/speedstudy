@@ -4,7 +4,16 @@
 If you would like to join me, feel free to either grab a copy of this repo and create your own goals for the year, or snag the [template](./progress-2018) to make your own copy and add a link to it here.
 
 * [P1xt](https://github.com/P1xt/p1xt-progress)
+* [fiftyfivebells](https://github.com/fiftyfivebells/2018-study-plan)
+* [SharpEleven](https://github.com/SharpEleven91/StudyGuide2018)
+* [elloo](https://github.com/elloo/p1xt-js-2.0-guided-studies)
+* [mayurpande](https://github.com/mayurpande/speedstudy)
+* [mtanzillo](https://github.com/mtanzillo/speedstudy2018)
+* [akhilome](https://github.com/akhilome/ss2018)
+* [bernar83](https://github.com/bernar83/2018-study-plan)
+* [LuisJaquez](https://github.com/LuisJaquez/Speed-Study-2018)
 * [buoyantair](https://github.com/buoyantair/progress)
+* [Your Progress Here](./progress-2018)
 
 ## Abstract
 
@@ -31,11 +40,13 @@ My goal is to see how many points I can rack up by December 31, 2018.
 | Substantial Project                         | 200                   | project       |
 | Large Project                               | 300                   | project       |
 | Gigantic Project                            | 400                   | project       |
-| Duolingo (1 level)                          | 100                   | foundation    |
+| Duolingo or MosaLingua (1 level)            | 100                   | foundation    |
 | Book                                        | 200                   | foundation    |
 | Tutorial site (Udemy/Pluralsight/Egghead/Treehouse/etc) course                            | 100                   | foundation    |
 | University level course (Coursera/edX/MITOCW/etc)                    | 500                   | foundation    |
 | Physical Activity (30 minutes)                          | 10                    | foundation    |
+| Musical Instrument Practice (30 minutes)                          | 10                    | foundation    |
+| Khan Academy (30 minutes)                          | 10                    | foundation    |
 | Analytics Vidhya Competition                | 50                    | data-science  |
 | Crowd Analytix Competition                  | 50                    | data-science  |
 | Kaggle Competition                          | 50                    | data-science  |
@@ -46,6 +57,7 @@ My goal is to see how many points I can rack up by December 31, 2018.
 | Open Source PR                              | 50                    | communication |
 | Module to npm                               | 200                   | communication |
 | Team Up for a project                       | 100                   | communication |
+| Diary entry                                 | 5                     | communication |
 | CodeWars (10 problems)                      | 50                    | algorithms    |
 | CodinGame (1 Tier)                          | 100                   | algorithms    |
 | CodinGame (1 Bot Competition)               | 20                    | algorithms    |
