@@ -12,6 +12,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [akhilome](https://github.com/akhilome/ss2018)
 * [bernar83](https://github.com/bernar83/2018-study-plan)
 * [LuisJaquez](https://github.com/LuisJaquez/Speed-Study-2018)
+* [buoyantair](https://github.com/buoyantair/progress)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
