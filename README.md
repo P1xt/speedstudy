@@ -16,6 +16,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [buoyantair](https://github.com/buoyantair/progress)
 * [jesuodz](https://github.com/jesuodz/speedstudy)
 * [LydiaVuj](https://github.com/LydiaVuj/speedstudy2018)
+* [mbazhlekova](https://github.com/mbazhlekova/2018-speedstudy)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
