@@ -15,6 +15,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [LuisJaquez](https://github.com/LuisJaquez/Speed-Study-2018)
 * [buoyantair](https://github.com/buoyantair/progress)
 * [jesuodz](https://github.com/jesuodz/speedstudy)
+* [LydiaVuj](https://github.com/LydiaVuj/speedstudy2018)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
