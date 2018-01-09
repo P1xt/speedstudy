@@ -18,6 +18,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [LydiaVuj](https://github.com/LydiaVuj/speedstudy2018)
 * [mbazhlekova](https://github.com/mbazhlekova/2018-speedstudy)
 * [RishiSpeets](https://github.com/RishiSpeets/study-progress)
+* [TheSabby](https://github.com/TheSabby/speed-study)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
