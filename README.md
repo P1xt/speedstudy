@@ -72,7 +72,7 @@ My goal is to see how many points I can rack up by December 31, 2018.
 
 ## Project ideas
 
-*   Pick a template from [\[here\]](https://freebiesbug.com/psd-freebies/website-template/), [\[here\]](http://www.os-templates.com/free-website-templates), or [\[here\]](http://www.os-templates.com/free-website-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
+*   Pick a template from [\[here\]](https://freebiesbug.com/psd-freebies/website-template/), [\[here\]](http://www.os-templates.com/free-website-templates), or [\[here\]](http://www.free-css.com/free-css-templates) and implement the frontend of a website with it as your inspiration (do not use its assets)
 *   Complete any 5 projects from [100 Days of CSS](https://100dayscss.com/).
 *   Select an API from [Todd Motto's API List](https://github.com/toddmotto/public-apis) and build a frontend-only application powered by data fetched from the API you chose.
 *   Complete a CSS theme for [CSS Zen Garden](http://www.csszengarden.com/)
