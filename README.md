@@ -19,6 +19,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [mbazhlekova](https://github.com/mbazhlekova/2018-speedstudy)
 * [RishiSpeets](https://github.com/RishiSpeets/study-progress)
 * [TheSabby](https://github.com/TheSabby/speed-study)
+* [Kornil](https://github.com/Kornil/speedstudy/blob/master/progress-2018/Kornil-2018/Kornil-progress-2018.md)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
