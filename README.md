@@ -24,6 +24,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [TheSabby](https://github.com/TheSabby/speed-study)
 * [Diana](https://github.com/dianastanciu/speedstudy2018)
 * [kevcomedia](https://github.com/kevcomedia/progress-2018)
+* [AliMahmoud7](https://github.com/AliMahmoud7/my-progress)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
