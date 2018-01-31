@@ -27,6 +27,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [AliMahmoud7](https://github.com/AliMahmoud7/my-progress)
 * [ahmedvip2008](https://github.com/ahmedvip2008/progress-2018)
 * [AmirF27](https://github.com/AmirF27/2018-progress)
+* [jer244](https://github.com/jer244/progress)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
