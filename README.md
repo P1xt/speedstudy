@@ -28,7 +28,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [ahmedvip2008](https://github.com/ahmedvip2008/progress-2018)
 * [AmirF27](https://github.com/AmirF27/2018-progress)
 * [jer244](https://github.com/jer244/progress)
-* [sritha3005](https://github.com/sritha3005/speedstudy/blob/master/progress-2018/template/template-progress-2018.md)
+* [sritha3005](https://github.com/sritha3005/speedstudyProgress2018)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
