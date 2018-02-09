@@ -70,6 +70,7 @@ My goal is to see how many points I can rack up by December 31, 2018.
 | Design Competition                          | 50                    | design        |
 | Blog Post on any topic                      | 15                    | communication |
 | Blog Post Tutorial                          | 40                    | communication |
+| Practice writing skills (30 minutes)        | 10                    | communication |
 | Video Tutorial                              | 50                    | communication |
 | Open Source PR                              | 50                    | communication |
 | Module to npm                               | 200                   | communication |
