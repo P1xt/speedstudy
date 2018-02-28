@@ -29,6 +29,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [AmirF27](https://github.com/AmirF27/2018-progress)
 * [jer244](https://github.com/jer244/progress)
 * [sritha3005](https://github.com/sritha3005/speedstudyProgress2018)
+* [Zenrer](https://github.com/Zenrer/speedstudy)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
