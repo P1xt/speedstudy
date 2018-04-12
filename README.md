@@ -30,6 +30,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [jer244](https://github.com/jer244/progress)
 * [sritha3005](https://github.com/sritha3005/speedstudyProgress2018)
 * [Zenrer](https://github.com/Zenrer/speedstudy)
+* [Clif-D](https://github.com/Clif-D/Road-to-Software-Engineer)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
