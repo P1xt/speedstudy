@@ -31,6 +31,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [sritha3005](https://github.com/sritha3005/speedstudyProgress2018)
 * [Zenrer](https://github.com/Zenrer/speedstudy)
 * [Clif-D](https://github.com/Clif-D/Road-to-Software-Engineer)
+* [Nedu](https://github.com/Nedu/nedu-progress)
 * [Your Progress Here](./progress-2018)
 
 ## Abstract
