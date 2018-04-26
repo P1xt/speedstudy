@@ -74,7 +74,7 @@
 
 - [ ] [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 
-- [ ] [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
+* [ ] Course: [Robotics Fundamentals](https://www.edx.org/course/robotics-fundamentals-pennx-robo1x)
 
 - [ ] [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 

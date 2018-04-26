@@ -54,7 +54,7 @@ Total Points earned:
 - [ ] [Machine Learning](https://www.coursera.org/learn/machine-learning)
 - [ ] [Operating Systems and System Programming](https://theopenacademy.com/content/operating-systems-and-system-programming)
 - [ ] [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
-- [ ] [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
+* [ ] Course: [Robotics Fundamentals](https://www.edx.org/course/robotics-fundamentals-pennx-robo1x)
 - [ ] [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 - [ ] [Parallel Computer Architecture and Programming](http://15418.courses.cs.cmu.edu/spring2016/home)
 
