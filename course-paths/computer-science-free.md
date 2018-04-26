@@ -24,7 +24,7 @@
 
 - [ ] [MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
 
-- [ ] [Calculus One](https://www.coursera.org/learn/calculus1)
+* [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 
 - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 
@@ -40,7 +40,7 @@
 
 - [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
-- [ ] [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
+* [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 
 - [ ] [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 

@@ -7,7 +7,7 @@
 
 - [ ] [Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-6)
 
-- [ ] [Calculus One](https://www.coursera.org/learn/calculus1)
+* [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 
 - [ ] [Introduction to Probability and Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm)
 
@@ -21,7 +21,7 @@
 
 - [ ] [Introduction to Solid State Chemistry](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010/index.htm)
 
-- [ ] [Calculus Two: Sequences and Series](https://www.coursera.org/learn/advanced-calculus)
+* [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 
 - [ ] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 
