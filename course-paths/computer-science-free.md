@@ -24,7 +24,7 @@
 
 - [ ] [MongoDB for Node.js Developers](https://university.mongodb.com/courses/M101JS/about)
 
-* [ ] Course: [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
+- [ ] [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
 
 - [ ] [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)
 
@@ -40,7 +40,7 @@
 
 - [ ] [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)
 
-* [ ] Course: [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
+- [ ] [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)
 
 - [ ] [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)
 
@@ -74,7 +74,7 @@
 
 - [ ] [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 
-* [ ] Course: [Robotics Fundamentals](https://www.edx.org/course/robotics-fundamentals-pennx-robo1x)
+- [ ] [Robotics Fundamentals](https://www.edx.org/course/robotics-fundamentals-pennx-robo1x)
 
 - [ ] [Computer Networks](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)
 
