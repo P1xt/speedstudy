@@ -32,7 +32,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [Zenrer](https://github.com/Zenrer/speedstudy)
 * [Clif-D](https://github.com/Clif-D/Road-to-Software-Engineer)
 * [Nedu](https://github.com/Nedu/nedu-progress)
-* [Your Progress Here](./progress-2018)
+* [sillymidoff](https://github.com/sillymidoff/progress-2018/blob/master/README.md)
 
 ## Abstract
 
