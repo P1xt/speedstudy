@@ -28,11 +28,12 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [ahmedvip2008](https://github.com/ahmedvip2008/progress-2018)
 * [AmirF27](https://github.com/AmirF27/2018-progress)
 * [jer244](https://github.com/jer244/progress)
-* [sritha3005](https://github.com/sritha3005/speedstudyProgress2018)
+* [srithasriran30](https://github.com/srithasriram30/speedstudyProgress2018) (Note: username changed from sritha3005)
 * [Zenrer](https://github.com/Zenrer/speedstudy)
 * [Clif-D](https://github.com/Clif-D/Road-to-Software-Engineer)
 * [Nedu](https://github.com/Nedu/nedu-progress)
 * [sillymidoff](https://github.com/sillymidoff/progress-2018/blob/master/README.md)
+
 
 ## Abstract
 
