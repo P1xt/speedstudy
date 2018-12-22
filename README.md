@@ -33,7 +33,7 @@ If you would like to join me, feel free to either grab a copy of this repo and c
 * [Clif-D](https://github.com/Clif-D/Road-to-Software-Engineer)
 * [Nedu](https://github.com/Nedu/nedu-progress)
 * [sillymidoff](https://github.com/sillymidoff/progress-2018/blob/master/README.md)
-
+* [Eufras1a](https://github.com/Eufras1a/2019-Goal)
 
 ## Abstract
 
